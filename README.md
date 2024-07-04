@@ -1,2 +1,2 @@
-# AlgoritmodePrim
-Algoritmo implementado para a disciplina de Teoria dos Grafos
+# Algoritmo de Prim, Kruskal e BFS
+Algoritmos implementados para a disciplina de Teoria dos Grafos
